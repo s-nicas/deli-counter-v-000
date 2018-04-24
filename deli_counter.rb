@@ -26,4 +26,3 @@ def now_serving(line_array)
 end 
 
 
-# age < 2 ? "baby" : "not a baby"
